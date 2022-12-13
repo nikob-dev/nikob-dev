@@ -1,4 +1,4 @@
-- 🤘 Hi, I’m Niko
+- 🤘 Hi, I’m Nikolas
 - 👀 I’m interested in network technologies, big data, and web3
 - 🌱 I’m currently learning node.js, AWS CDK, and data science
 - 🛠️ I’m looking to collaborate on civic coding, Project Euler, and tech education
