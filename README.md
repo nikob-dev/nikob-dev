@@ -1,6 +1,6 @@
-- 🤘 Hi, I’m Nikolas
+- 🤘 Hey, it's Niko
 - 👀 I’m interested in automation, big data, and web3
-- 📫 How to reach me: Twitter @Niko2057
+- 📫 Twitter @Niko2057
 
 <!---
 nikob-dev/nikob-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
